@@ -2,13 +2,18 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome" : "GlacierHills",
+      "Biome" : "RedwoodForest",
       "Min" : -1,
-      "Max" : -0.2
+      "Max" : -0.8
     },
     {
       "Biome" : "WinterMountains",
-      "Min" : -0.2,
+      "Min" : -0.8,
+      "Max" : 0
+    },
+    {
+      "Biome" : "GlacierHills",
+      "Min" : 0,
       "Max" : 1
     }
   ],
