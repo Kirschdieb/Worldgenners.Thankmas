@@ -22,7 +22,7 @@
   "MaxBiomeEdgeDistance" : 32,
   "Density": {
     "Type" : "Imported",
-    "Name" : "Biome-Map_Thanksmas"
+    "Name" : "Biome-Map_Thankmas"
 	},
   "SpawnPositions" : {
     "Type" : "Imported",

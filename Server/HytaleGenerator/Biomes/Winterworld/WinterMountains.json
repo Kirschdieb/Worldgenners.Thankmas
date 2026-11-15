@@ -1358,7 +1358,7 @@
 						}, {
 							"$NodeId":	"MultiMix.Density-98156ca0-27d7-4b78-bece-31f9222650a8",
 							"Type":	"MultiMix",
-							"ExportAs":	"ThanksmasMainTerrain",
+							"ExportAs":	"ThankmasMainTerrain",
 							"Skip":	false,
 							"Inputs":	[{
 									"$NodeId":	"Constant.Density-3c6845d5-0afd-4193-9b37-5bca7b89f32a",
