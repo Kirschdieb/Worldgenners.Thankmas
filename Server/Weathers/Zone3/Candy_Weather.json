@@ -1,0 +1,54 @@
+{
+  "Parent": "Cave_Goblin_Void_Event_Heavy_Surge",
+  "FogDistance": [
+    -52,
+    1256
+  ],
+  "ColorFilters": [
+    {
+      "Hour": 13,
+      "Color": "#fdf3fa"
+    }
+  ],
+  "Clouds": [
+    {
+      "Texture": "Sky/Clouds/Void_Base.png",
+      "Colors": [
+        {
+          "Hour": 13,
+          "Color": "#f5e6e6ff"
+        }
+      ],
+      "Speeds": [
+        {
+          "Hour": 13,
+          "Value": 1
+        }
+      ]
+    }
+  ],
+  "SkyTopColors": [
+    {
+      "Hour": 14,
+      "Color": "#7ad7daff"
+    }
+  ],
+  "SkyBottomColors": [
+    {
+      "Hour": 14,
+      "Color": "#9be2d7ff"
+    }
+  ],
+  "SkySunsetColors": [
+    {
+      "Hour": 14,
+      "Color": "#967cceff"
+    }
+  ],
+  "FogColors": [
+    {
+      "Hour": 15,
+      "Color": "#fddffd"
+    }
+  ]
+}
