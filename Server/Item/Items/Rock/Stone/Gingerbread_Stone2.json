@@ -33,12 +33,12 @@
     "TextureComputedColor": "#79785A",
     "Textures": [
       {
-        "All": "Blocks/Blocks/Gingerbread_Blank.png",
-        "Up": "Blocks/Blocks/Gingerbread_Blank.png",
-        "Down": "Blocks/Blocks/Gingerbread_Blank.png"
+        "All": "BlockTextures/Gingerbread_Blank.png",
+        "Up": "BlockTextures/Gingerbread_Blank.png",
+        "Down": "BlockTextures/Gingerbread_Blank.png"
       }
     ],
-    "TextureSideMask": "Blocks/Blocks/Gingerbread_Blank.png",
+    "TextureSideMask": "BlockTextures/Gingerbread_Blank.png",
     "Tint": [
       "#82674f"
     ]
