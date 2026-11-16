@@ -33,10 +33,10 @@
     "TextureComputedColor": "#79785A",
     "Textures": [
       {
-        "All": "Blocks/Blocks/Candy_Red.png"
+        "All": "BlockTextures/Candy_Red.png"
       }
     ],
-    "TextureSideMask": "Blocks/Blocks/Candy_Red.png"
+    "TextureSideMask": "BlockTextures/Candy_Red.png"
   },
   "ResourceTypes": [
     {

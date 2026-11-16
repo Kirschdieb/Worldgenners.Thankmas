@@ -1,0 +1,68 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Glass_Test_White.name"
+  },
+  "Quality": "Developer",
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Transparent",
+    "VariantRotation": "None",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Soils",
+        "Quality": 0,
+        "Quantity": 1
+      },
+      "Soft": {}
+    },
+    "BlockParticleSetId": "Glass",
+    "BlockSoundSetId": "Soft",
+    "PhysicalMaterialId": "Wool",
+    "Textures": [
+      {
+        "All": "BlockTextures/Glass_Test_White.png"
+      }
+    ],
+    "RequiresAlphaBlending": true,
+    "ParticleColor": "#F0F5FF",
+    "TextureComputedColor": "#F0F5FF",
+    "Tint": [
+      "#bc88e2"
+    ],
+    "MovementSettings": {
+      "JumpForceMultiplier": 1.5,
+      "Drag": 0.8,
+      "IsBouncy": false,
+      "IsClimbable": false
+    },
+    "FallingBlockSettings": {
+      "Impact": {
+        "Type": "Place"
+      }
+    }
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Editor"
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Glass_Test_White.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
