@@ -2638,7 +2638,7 @@
 																				"Positions":	[{
 																						"$NodeId":	"Decimal.Vector3d-e58df582-9ed1-43bd-b2c6-9ddc1b47ea6c",
 																						"X":	0.0,
-																						"Y":	4,
+																						"Y":	4.0,
 																						"Z":	0.0
 																					}]
 																			}
@@ -5219,7 +5219,7 @@
 					"$NodeId":	"SimpleHorizontal.MaterialProvider-78a79b10-c688-4e94-bbb6-5427320841a5",
 					"Type":	"SimpleHorizontal",
 					"Skip":	false,
-					"TopY":	155,
+					"TopY":	154,
 					"TopBaseHeight":	"Base",
 					"BottomY":	0,
 					"BottomBaseHeight":	"Base",
