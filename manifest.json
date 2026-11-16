@@ -1,8 +1,24 @@
 {
-  "Group": "Kirschdieb",
+  "Group": "Worldgenners",
   "Name": "Thankmas",
   "Version": "1.0.0",
-  "Authors": [],
+  "Authors": [
+    {
+      "Name": "Kirschdieb",
+      "Email": "",
+      "Url": "https://www.curseforge.com/members/kirschdieb/projects"
+    },
+    {
+      "Name": "SAMPL3R",
+      "Email": "",
+      "Url": "https://www.curseforge.com/members/sampl3r/projects"
+    },
+    {
+      "Name": "add-your-name-here",
+      "Email": "",
+      "Url": "add-your-url-here"
+    }
+  ],
   "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},
