@@ -2389,6 +2389,7 @@
 					"Material":	{
 						"$NodeId":	"FieldFunction.MaterialProvider-b3b06cc3-97c1-4ae3-834c-8ade78739ca8",
 						"Type":	"FieldFunction",
+						"ExportAs":	"Snow_Map_WinterMountains",
 						"Skip":	false,
 						"FieldFunction":	{
 							"$NodeId":	"Cache.Density-fd64e582-92cc-482e-916f-3a7a80ecdc4e",
@@ -8459,24 +8460,6 @@
 					"$y":	-13907
 				}
 			},
-			"Mix.Density-877a3fcb-7c45-44f9-8322-f9f0c811c914":	{
-				"$Position":	{
-					"$x":	12127,
-					"$y":	-15282
-				}
-			},
-			"Normalizer.Density-8d98467e-c138-4224-8014-030d24cab9d7":	{
-				"$Position":	{
-					"$x":	12420,
-					"$y":	-15735
-				}
-			},
-			"CellNoise3D.Density-8daa6f3d-ba5f-4031-a0b6-226395e3e179":	{
-				"$Position":	{
-					"$x":	13637,
-					"$y":	-15962
-				}
-			},
 			"Mix.Density-6ab51f26-adb4-430c-b4b9-b3f63b46940d":	{
 				"$Position":	{
 					"$x":	13136,
@@ -8613,18 +8596,6 @@
 				"$Position":	{
 					"$x":	14414,
 					"$y":	-14802
-				}
-			},
-			"Normalizer.Density-91fca3c5-2fa4-429b-9ec1-0dcd09dcc0d5":	{
-				"$Position":	{
-					"$x":	12420,
-					"$y":	-14828
-				}
-			},
-			"DistanceToBiomeEdge.Density-74e19be3-f83e-48e9-b444-3e1d68aa6ad1":	{
-				"$Position":	{
-					"$x":	13044,
-					"$y":	-14828
 				}
 			},
 			"Exported.Density-8dd1bfa3-f965-40ed-98b0-d763b4400682":	{
@@ -13915,6 +13886,42 @@
 					"$y":	-2170
 				}
 			},
+			"Mix.Density-877a3fcb-7c45-44f9-8322-f9f0c811c914":	{
+				"$Position":	{
+					"$x":	12127,
+					"$y":	-15282
+				}
+			},
+			"Normalizer.Density-8d98467e-c138-4224-8014-030d24cab9d7":	{
+				"$Position":	{
+					"$x":	12420,
+					"$y":	-15735
+				}
+			},
+			"Inverter.Density-eb696168-8807-4a99-8081-ae5f5dc5ce3d":	{
+				"$Position":	{
+					"$x":	13028,
+					"$y":	-15735
+				}
+			},
+			"CellNoise3D.Density-8daa6f3d-ba5f-4031-a0b6-226395e3e179":	{
+				"$Position":	{
+					"$x":	13637,
+					"$y":	-15962
+				}
+			},
+			"Normalizer.Density-91fca3c5-2fa4-429b-9ec1-0dcd09dcc0d5":	{
+				"$Position":	{
+					"$x":	12420,
+					"$y":	-14828
+				}
+			},
+			"DistanceToBiomeEdge.Density-74e19be3-f83e-48e9-b444-3e1d68aa6ad1":	{
+				"$Position":	{
+					"$x":	13044,
+					"$y":	-14828
+				}
+			},
 			"Material-c80f7443-99cf-44d8-ae29-ab5367b169c3":	{
 				"$Position":	{
 					"$x":	6100,
@@ -14358,12 +14365,6 @@
 					"$x":	11640,
 					"$y":	-1466
 				}
-			},
-			"Inverter.Density-eb696168-8807-4a99-8081-ae5f5dc5ce3d":	{
-				"$Position":	{
-					"$x":	13028,
-					"$y":	-15735
-				}
 			}
 		},
 		"$FloatingNodes":	[{
@@ -14374,10 +14375,10 @@
 						"$NodeId":	"Normalizer.Density-8d98467e-c138-4224-8014-030d24cab9d7",
 						"Type":	"Normalizer",
 						"Skip":	false,
-						"FromMin":	0,
-						"FromMax":	1,
+						"FromMin":	0.0,
+						"FromMax":	1.0,
 						"ToMin":	-1.0,
-						"ToMax":	0,
+						"ToMax":	0.0,
 						"Inputs":	[{
 								"$NodeId":	"Inverter.Density-eb696168-8807-4a99-8081-ae5f5dc5ce3d",
 								"Type":	"Inverter",
@@ -14386,9 +14387,9 @@
 										"$NodeId":	"CellNoise3D.Density-8daa6f3d-ba5f-4031-a0b6-226395e3e179",
 										"Type":	"CellNoise3D",
 										"Skip":	false,
-										"ScaleX":	15,
-										"ScaleY":	20,
-										"ScaleZ":	15,
+										"ScaleX":	15.0,
+										"ScaleY":	20.0,
+										"ScaleZ":	15.0,
 										"Jitter":	0.35,
 										"CellType":	"Distance2Div",
 										"Octaves":	1
@@ -14398,8 +14399,8 @@
 						"$NodeId":	"Normalizer.Density-91fca3c5-2fa4-429b-9ec1-0dcd09dcc0d5",
 						"Type":	"Normalizer",
 						"Skip":	false,
-						"FromMin":	0,
-						"FromMax":	22,
+						"FromMin":	0.0,
+						"FromMax":	22.0,
 						"ToMin":	0.6,
 						"ToMax":	1.0,
 						"Inputs":	[{
