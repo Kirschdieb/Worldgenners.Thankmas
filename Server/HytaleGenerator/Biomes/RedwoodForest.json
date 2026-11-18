@@ -1932,7 +1932,7 @@
 		}, {
 			"$NodeId":	"Runtime-7297d550-d44a-4b76-865a-7d9c42368db3",
 			"$Comment":	"Prop context precision",
-			"Skip":	true,
+			"Skip":	false,
 			"Runtime":	3,
 			"ContextPrecision":	"Prop",
 			"PropDistribution":	{
@@ -1944,57 +1944,40 @@
 						"Type":	"Constant",
 						"Skip":	false,
 						"Positions":	{
-							"$NodeId":	"FieldFunction.Positions-2d5686be-666b-42d6-a9ee-14748fed7433",
+							"$NodeId":	"FieldFunction.Positions-6774f388-a394-403c-81c9-1fe0aa52417b",
 							"Type":	"FieldFunction",
 							"Skip":	false,
 							"FieldFunction":	{
-								"$NodeId":	"Imported.Density-2e748895-cd6c-420a-ac09-85f834130879",
+								"$NodeId":	"Imported.Density-9db0920c-30d3-434e-aa7f-2d2e004201c6",
 								"Type":	"Imported",
 								"Skip":	false,
-								"Name":	"Base_Mountains"
+								"Name":	"All_Terrain_3D"
 							},
 							"Delimiters":	[{
-									"$NodeId":	"Delimiter.Positions-beb8513d-37f8-46aa-9bb2-78c6bc0ccfe8",
-									"$Comment":	"don't place on mountains",
-									"Min":	-2.0,
-									"Max":	0.1
+									"$NodeId":	"Delimiter.Positions-e93ca086-5528-474a-a78f-a9483b1a7bc8",
+									"Min":	-0.05,
+									"Max":	0.05
 								}],
 							"Positions":	{
-								"$NodeId":	"FieldFunction.Positions-6774f388-a394-403c-81c9-1fe0aa52417b",
-								"Type":	"FieldFunction",
+								"$NodeId":	"Scaler.Positions-98bb91f6-7b47-4b8b-8e15-c307d05aa082",
+								"Type":	"Scaler",
 								"Skip":	false,
-								"FieldFunction":	{
-									"$NodeId":	"Imported.Density-9db0920c-30d3-434e-aa7f-2d2e004201c6",
-									"Type":	"Imported",
-									"Skip":	false,
-									"Name":	"All_Terrain_3D"
+								"Scale":	{
+									"$NodeId":	"Decimal.Vector3d-5a840d8d-aa01-4d7b-a2a3-de20bfd7a744",
+									"X":	40.0,
+									"Y":	5.0,
+									"Z":	40.0
 								},
-								"Delimiters":	[{
-										"$NodeId":	"Delimiter.Positions-e93ca086-5528-474a-a78f-a9483b1a7bc8",
-										"Min":	-0.02,
-										"Max":	0.02
-									}],
 								"Positions":	{
-									"$NodeId":	"Scaler.Positions-98bb91f6-7b47-4b8b-8e15-c307d05aa082",
-									"Type":	"Scaler",
+									"$NodeId":	"Jitter3d.Positions-621f16a4-3772-4230-901b-e395a4a9dace",
+									"Type":	"Jitter3d",
 									"Skip":	false,
-									"Scale":	{
-										"$NodeId":	"Decimal.Vector3d-5a840d8d-aa01-4d7b-a2a3-de20bfd7a744",
-										"X":	40.0,
-										"Y":	5.0,
-										"Z":	40.0
-									},
+									"Magnitude":	0.3,
+									"Seed":	"A",
 									"Positions":	{
-										"$NodeId":	"Jitter3d.Positions-621f16a4-3772-4230-901b-e395a4a9dace",
-										"Type":	"Jitter3d",
-										"Skip":	false,
-										"Magnitude":	0.3,
-										"Seed":	"A",
-										"Positions":	{
-											"$NodeId":	"SquareGrid3d.Positions-2c142352-04e9-466d-b702-c446c41bcb07",
-											"Type":	"SquareGrid3d",
-											"Skip":	false
-										}
+										"$NodeId":	"SquareGrid3d.Positions-2c142352-04e9-466d-b702-c446c41bcb07",
+										"Type":	"SquareGrid3d",
+										"Skip":	false
 									}
 								}
 							}
@@ -2075,146 +2058,6 @@
 							},
 							"Scanner":	{
 								"$NodeId":	"Origin.Scanner-54330b82-6c15-4f59-83ae-cb5f45e7d1e4",
-								"Type":	"Origin",
-								"Skip":	false
-							}
-						}
-					}, {
-						"$NodeId":	"Constant.PropDistribution-d6115625-7ba8-44c2-b782-93f5ff606db7",
-						"Type":	"Constant",
-						"Skip":	false,
-						"Positions":	{
-							"$NodeId":	"FieldFunction.Positions-f44054aa-d214-48b6-ab8b-0820a82fb9bd",
-							"Type":	"FieldFunction",
-							"Skip":	false,
-							"FieldFunction":	{
-								"$NodeId":	"Imported.Density-d4693437-71e4-4000-9c84-bdcbebba3015",
-								"Type":	"Imported",
-								"Skip":	false,
-								"Name":	"Base_Mountains"
-							},
-							"Delimiters":	[{
-									"$NodeId":	"Delimiter.Positions-42b8bb42-9ac0-4b9a-9a2c-5899cf4e067f",
-									"$Comment":	"don't place on mountains",
-									"Min":	-2.0,
-									"Max":	0.1
-								}],
-							"Positions":	{
-								"$NodeId":	"FieldFunction.Positions-bc6aa427-3c30-488f-8be5-5224dfb23022",
-								"Type":	"FieldFunction",
-								"Skip":	false,
-								"FieldFunction":	{
-									"$NodeId":	"Imported.Density-144141c9-8a48-4549-a1be-dd4ce1c32ee9",
-									"Type":	"Imported",
-									"Skip":	false,
-									"Name":	"All_Terrain_3D"
-								},
-								"Delimiters":	[{
-										"$NodeId":	"Delimiter.Positions-a07ae607-fa91-4b21-9e75-6e5eedb34658",
-										"Min":	-0.02,
-										"Max":	0.02
-									}],
-								"Positions":	{
-									"$NodeId":	"Scaler.Positions-2bd389e3-1add-426a-ab75-36584d23ee1b",
-									"Type":	"Scaler",
-									"Skip":	false,
-									"Scale":	{
-										"$NodeId":	"Decimal.Vector3d-923f2579-ba57-4835-88ce-3c94020b37bd",
-										"X":	60.0,
-										"Y":	5.0,
-										"Z":	60.0
-									},
-									"Positions":	{
-										"$NodeId":	"Jitter3d.Positions-88dc5a46-d510-4471-a17d-856485498119",
-										"Type":	"Jitter3d",
-										"Skip":	false,
-										"Magnitude":	0.3,
-										"Seed":	"B",
-										"Positions":	{
-											"$NodeId":	"SquareGrid3d.Positions-ba958e71-d8c1-4838-a22b-e41c950695d6",
-											"Type":	"SquareGrid3d",
-											"Skip":	false
-										}
-									}
-								}
-							}
-						},
-						"Prop":	{
-							"$NodeId":	"Orienter.Prop-7cdda8c4-fcb9-459a-a3b2-faa2159346a2",
-							"Type":	"Orienter",
-							"Skip":	false,
-							"SelectionMode":	"FirstValid",
-							"Prop":	{
-								"$NodeId":	"Prefab.Prop-1bea6d67-d9e4-49f0-be42-20e525fb660f",
-								"Type":	"Prefab",
-								"Skip":	false,
-								"WeightedPrefabPaths":	[{
-										"$NodeId":	"WeightedPath.Prefab.Prop-0480bd7e-1cc9-4852-a808-c4a4393939a0",
-										"Path":	"Redwood_Stage4_Tilted_002.prefab.json",
-										"Weight":	1.0
-									}],
-								"LegacyPath":	false,
-								"LoadEntities":	true,
-								"MoldingDirection":	"NONE",
-								"MoldingChildren":	false
-							},
-							"Rotations":	[{
-									"$NodeId":	"OrthogonalRotation.Rotation-b266cb6c-9f09-4cce-a0e2-45fba293efaf",
-									"Yaw":	"None",
-									"Pitch":	"None",
-									"Roll":	"None"
-								}, {
-									"$NodeId":	"OrthogonalRotation.Rotation-cc47bdbc-7270-49b5-96d4-ae68af54a539",
-									"Yaw":	"Ninety",
-									"Pitch":	"None",
-									"Roll":	"None"
-								}, {
-									"$NodeId":	"OrthogonalRotation.Rotation-333797b6-0d5e-4625-bca7-4fd2855ffdbe",
-									"Yaw":	"OneEighty",
-									"Pitch":	"None",
-									"Roll":	"None"
-								}, {
-									"$NodeId":	"OrthogonalRotation.Rotation-111b2409-ebeb-478e-b31d-28ecf3bb1050",
-									"Yaw":	"TwoSeventy",
-									"Pitch":	"None",
-									"Roll":	"None"
-								}],
-							"Pattern":	{
-								"$NodeId":	"And.Pattern-6a14bbe0-c293-412a-b537-2680d7aee57c",
-								"Type":	"And",
-								"Skip":	false,
-								"Patterns":	[{
-										"$NodeId":	"Offset.Pattern-6d03199b-d24f-444c-baec-369f9a101363",
-										"Type":	"Offset",
-										"Skip":	false,
-										"Pattern":	{
-											"$NodeId":	"BlockSet.Pattern-75963a00-ed19-4c11-a757-7c839738d190",
-											"Type":	"BlockSet",
-											"Skip":	false,
-											"BlockSet":	{
-												"$NodeId":	"BlockSet.BlockMask-70d47573-eb42-4307-b74f-4db8320d834e",
-												"Inclusive":	true,
-												"Materials":	[{
-														"$NodeId":	"Material-5d09bd83-093f-49da-859e-bb1ac7b33470",
-														"Solid":	"Wood_Redwood_Trunk",
-														"SolidBottomUp":	false
-													}, {
-														"$NodeId":	"Material-d9d95a30-be06-47c1-8849-6fcb76f90a69",
-														"Solid":	"Wood_Redwood_Trunk_Full",
-														"SolidBottomUp":	false
-													}]
-											}
-										},
-										"Offset":	{
-											"$NodeId":	"Integer.Vector3d-c9a19b79-8a3d-4903-9470-b67201535cba",
-											"X":	-14,
-											"Y":	18,
-											"Z":	73
-										}
-									}]
-							},
-							"Scanner":	{
-								"$NodeId":	"Origin.Scanner-3a4e95f4-74a8-4da9-9ff0-ffd11f0883a9",
 								"Type":	"Origin",
 								"Skip":	false
 							}
@@ -3115,7 +2958,7 @@
 									"Offset":	{
 										"$NodeId":	"Integer.Vector3d-4e43ba8a-419f-45cb-af18-8e32adee7c28",
 										"X":	0,
-										"Y":	-1,
+										"Y":	1,
 										"Z":	0
 									},
 									"Prop":	{
@@ -3607,11 +3450,6 @@
 					}]
 			}
 		}, {
-			"$NodeId":	"Runtime-b849e73f-3010-4b86-9980-29f548792f70",
-			"Skip":	true,
-			"Runtime":	4,
-			"ContextPrecision":	"Biome"
-		}, {
 			"$NodeId":	"Runtime-aa3135d4-929b-437b-8145-f169ea34855f",
 			"Skip":	false,
 			"Runtime":	2,
@@ -3630,72 +3468,25 @@
 							"Skip":	false,
 							"BedName":	"Base",
 							"Positions":	{
-								"$NodeId":	"FieldFunction.Positions-a3c18ad1-de62-499f-a629-2f6acff1266d",
-								"Type":	"FieldFunction",
+								"$NodeId":	"Scaler.Positions-05076f74-4ed3-4382-a700-0739a6bd91b7",
+								"Type":	"Scaler",
 								"Skip":	false,
-								"FieldFunction":	{
-									"$NodeId":	"Exported.Density-2988f431-5ebe-4918-9351-0ca3a7423241",
-									"Type":	"Exported",
-									"ExportAs":	"Terrain_Gradient",
-									"SingleInstance":	true,
-									"Skip":	false,
-									"Inputs":	[{
-											"$NodeId":	"Cache.Density-70f3576f-15af-48f4-ae7c-706e53611403",
-											"Type":	"Cache",
-											"Skip":	false,
-											"Capacity":	1,
-											"Inputs":	[{
-													"$NodeId":	"Angle.Density-fe81006f-e4c5-4f95-9e34-cb248fc1c3c7",
-													"Type":	"Angle",
-													"Skip":	false,
-													"IsAxis":	false,
-													"Vector":	{
-														"$NodeId":	"Decimal.Vector3d-bc470730-ef65-4f11-ae7d-965545375e24",
-														"X":	0.0,
-														"Y":	-1.0,
-														"Z":	0.0
-													},
-													"VectorProvider":	{
-														"$NodeId":	"DensityGradient.VectorProvider-7bb1b134-1bf2-4682-9fc1-b4967f3e30ef",
-														"Type":	"DensityGradient",
-														"Skip":	false,
-														"SampleDistance":	1.0,
-														"Density":	{
-															"$NodeId":	"Imported.Density-add6d19b-dd70-403d-ab72-b4c9004bf421",
-															"Type":	"Imported",
-															"Skip":	false,
-															"Name":	"RedwoodForest_Base"
-														}
-													}
-												}]
-										}]
+								"Scale":	{
+									"$NodeId":	"Decimal.Vector3d-d83e5ffa-277e-4e3f-8e0f-45d1ddde1815",
+									"X":	50.0,
+									"Y":	1.0,
+									"Z":	50.0
 								},
-								"Delimiters":	[{
-										"$NodeId":	"Delimiter.Positions-d731e7da-270c-4611-bde0-72d4df4f3fc9",
-										"Min":	0.0,
-										"Max":	20.0
-									}],
 								"Positions":	{
-									"$NodeId":	"Scaler.Positions-05076f74-4ed3-4382-a700-0739a6bd91b7",
-									"Type":	"Scaler",
+									"$NodeId":	"Jitter2d.Positions-21103744-8ab4-42b9-96ef-0fcd15b2dd5f",
+									"Type":	"Jitter2d",
 									"Skip":	false,
-									"Scale":	{
-										"$NodeId":	"Decimal.Vector3d-d83e5ffa-277e-4e3f-8e0f-45d1ddde1815",
-										"X":	30.0,
-										"Y":	1.0,
-										"Z":	30.0
-									},
+									"Magnitude":	0.6,
+									"Seed":	"D",
 									"Positions":	{
-										"$NodeId":	"Jitter2d.Positions-21103744-8ab4-42b9-96ef-0fcd15b2dd5f",
-										"Type":	"Jitter2d",
-										"Skip":	false,
-										"Magnitude":	0.6,
-										"Seed":	"C",
-										"Positions":	{
-											"$NodeId":	"SquareGrid2d.Positions-3a59124b-36de-4442-a82d-22b159a35f50",
-											"Type":	"SquareGrid2d",
-											"Skip":	false
-										}
+										"$NodeId":	"SquareGrid2d.Positions-3a59124b-36de-4442-a82d-22b159a35f50",
+										"Type":	"SquareGrid2d",
+										"Skip":	false
 									}
 								}
 							}
@@ -3794,41 +3585,25 @@
 							"Skip":	false,
 							"BedName":	"Base",
 							"Positions":	{
-								"$NodeId":	"FieldFunction.Positions-c4df822b-4ffc-4348-8786-dde2fcf815fb",
-								"Type":	"FieldFunction",
+								"$NodeId":	"Scaler.Positions-ee58d90b-38af-4572-9d2e-4e96325d904d",
+								"Type":	"Scaler",
 								"Skip":	false,
-								"FieldFunction":	{
-									"$NodeId":	"Imported.Density-4772c2a2-a63f-4709-bdfc-93dc399f188e",
-									"Type":	"Imported",
-									"Skip":	false,
-									"Name":	"Terrain_Gradient"
+								"Scale":	{
+									"$NodeId":	"Decimal.Vector3d-68b29467-85be-4eaf-99f1-6ae0459d6f0c",
+									"X":	150,
+									"Y":	1.0,
+									"Z":	150
 								},
-								"Delimiters":	[{
-										"$NodeId":	"Delimiter.Positions-a281a665-5861-409d-868c-d6b3789a6f5e",
-										"Min":	0.0,
-										"Max":	30.0
-									}],
 								"Positions":	{
-									"$NodeId":	"Scaler.Positions-ee58d90b-38af-4572-9d2e-4e96325d904d",
-									"Type":	"Scaler",
+									"$NodeId":	"Jitter2d.Positions-9d6fb73f-f75a-4713-a793-65a9a487f451",
+									"Type":	"Jitter2d",
 									"Skip":	false,
-									"Scale":	{
-										"$NodeId":	"Decimal.Vector3d-68b29467-85be-4eaf-99f1-6ae0459d6f0c",
-										"X":	27.0,
-										"Y":	1.0,
-										"Z":	27.0
-									},
+									"Magnitude":	0.4,
+									"Seed":	"F",
 									"Positions":	{
-										"$NodeId":	"Jitter2d.Positions-9d6fb73f-f75a-4713-a793-65a9a487f451",
-										"Type":	"Jitter2d",
-										"Skip":	false,
-										"Magnitude":	0.5,
-										"Seed":	"D",
-										"Positions":	{
-											"$NodeId":	"SquareGrid2d.Positions-b0f76194-53bd-4c79-9f23-c4d4ca9c88ea",
-											"Type":	"SquareGrid2d",
-											"Skip":	false
-										}
+										"$NodeId":	"SquareGrid2d.Positions-b0f76194-53bd-4c79-9f23-c4d4ca9c88ea",
+										"Type":	"SquareGrid2d",
+										"Skip":	false
 									}
 								}
 							}
@@ -3851,10 +3626,6 @@
 											"$NodeId":	"WeightedPath.Prefab.Prop-bb1b4147-8497-4f7b-90d4-9050d273b8a5",
 											"Path":	"Mushroom_Tall_003.prefab.json",
 											"Weight":	1.0
-										}, {
-											"$NodeId":	"WeightedPath.Prefab.Prop-69228dd9-e24c-43f5-a1a7-58144f79d573",
-											"Path":	"Redwood_House_001.prefab.json",
-											"Weight":	4.0
 										}],
 									"LegacyPath":	false,
 									"LoadEntities":	false,
@@ -9612,7 +9383,7 @@
 			"FieldFunction.Positions-c4df822b-4ffc-4348-8786-dde2fcf815fb":	{
 				"$Position":	{
 					"$x":	15951,
-					"$y":	22656
+					"$y":	22749
 				}
 			},
 			"Imported.Density-4772c2a2-a63f-4709-bdfc-93dc399f188e":	{
@@ -13493,6 +13264,234 @@
 			}
 		},
 		"$FloatingNodes":	[{
+				"$NodeId":	"FieldFunction.Positions-2d5686be-666b-42d6-a9ee-14748fed7433",
+				"Type":	"FieldFunction",
+				"Skip":	false,
+				"FieldFunction":	{
+					"$NodeId":	"Imported.Density-2e748895-cd6c-420a-ac09-85f834130879",
+					"Type":	"Imported",
+					"Skip":	false,
+					"Name":	"Base_Mountains"
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.Positions-beb8513d-37f8-46aa-9bb2-78c6bc0ccfe8",
+						"$Comment":	"don't place on mountains",
+						"Min":	-2.0,
+						"Max":	0.1
+					}]
+			}, {
+				"$NodeId":	"Constant.PropDistribution-d6115625-7ba8-44c2-b782-93f5ff606db7",
+				"Type":	"Constant",
+				"Skip":	false,
+				"Positions":	{
+					"$NodeId":	"FieldFunction.Positions-bc6aa427-3c30-488f-8be5-5224dfb23022",
+					"Type":	"FieldFunction",
+					"Skip":	false,
+					"FieldFunction":	{
+						"$NodeId":	"Imported.Density-144141c9-8a48-4549-a1be-dd4ce1c32ee9",
+						"Type":	"Imported",
+						"Skip":	false,
+						"Name":	"All_Terrain_3D"
+					},
+					"Delimiters":	[{
+							"$NodeId":	"Delimiter.Positions-a07ae607-fa91-4b21-9e75-6e5eedb34658",
+							"Min":	-0.05,
+							"Max":	0.05
+						}],
+					"Positions":	{
+						"$NodeId":	"Scaler.Positions-2bd389e3-1add-426a-ab75-36584d23ee1b",
+						"Type":	"Scaler",
+						"Skip":	false,
+						"Scale":	{
+							"$NodeId":	"Decimal.Vector3d-923f2579-ba57-4835-88ce-3c94020b37bd",
+							"X":	60.0,
+							"Y":	5.0,
+							"Z":	60.0
+						},
+						"Positions":	{
+							"$NodeId":	"Jitter3d.Positions-88dc5a46-d510-4471-a17d-856485498119",
+							"Type":	"Jitter3d",
+							"Skip":	false,
+							"Magnitude":	0.3,
+							"Seed":	"B",
+							"Positions":	{
+								"$NodeId":	"SquareGrid3d.Positions-ba958e71-d8c1-4838-a22b-e41c950695d6",
+								"Type":	"SquareGrid3d",
+								"Skip":	false
+							}
+						}
+					}
+				},
+				"Prop":	{
+					"$NodeId":	"Orienter.Prop-7cdda8c4-fcb9-459a-a3b2-faa2159346a2",
+					"Type":	"Orienter",
+					"Skip":	false,
+					"SelectionMode":	"FirstValid",
+					"Prop":	{
+						"$NodeId":	"Prefab.Prop-1bea6d67-d9e4-49f0-be42-20e525fb660f",
+						"Type":	"Prefab",
+						"Skip":	false,
+						"WeightedPrefabPaths":	[{
+								"$NodeId":	"WeightedPath.Prefab.Prop-0480bd7e-1cc9-4852-a808-c4a4393939a0",
+								"Path":	"Redwood_Stage4_Tilted_002.prefab.json",
+								"Weight":	1.0
+							}],
+						"LegacyPath":	false,
+						"LoadEntities":	true,
+						"MoldingDirection":	"NONE",
+						"MoldingChildren":	false
+					},
+					"Rotations":	[{
+							"$NodeId":	"OrthogonalRotation.Rotation-b266cb6c-9f09-4cce-a0e2-45fba293efaf",
+							"Yaw":	"None",
+							"Pitch":	"None",
+							"Roll":	"None"
+						}, {
+							"$NodeId":	"OrthogonalRotation.Rotation-cc47bdbc-7270-49b5-96d4-ae68af54a539",
+							"Yaw":	"Ninety",
+							"Pitch":	"None",
+							"Roll":	"None"
+						}, {
+							"$NodeId":	"OrthogonalRotation.Rotation-333797b6-0d5e-4625-bca7-4fd2855ffdbe",
+							"Yaw":	"OneEighty",
+							"Pitch":	"None",
+							"Roll":	"None"
+						}, {
+							"$NodeId":	"OrthogonalRotation.Rotation-111b2409-ebeb-478e-b31d-28ecf3bb1050",
+							"Yaw":	"TwoSeventy",
+							"Pitch":	"None",
+							"Roll":	"None"
+						}],
+					"Pattern":	{
+						"$NodeId":	"And.Pattern-6a14bbe0-c293-412a-b537-2680d7aee57c",
+						"Type":	"And",
+						"Skip":	false,
+						"Patterns":	[{
+								"$NodeId":	"Offset.Pattern-6d03199b-d24f-444c-baec-369f9a101363",
+								"Type":	"Offset",
+								"Skip":	false,
+								"Pattern":	{
+									"$NodeId":	"BlockSet.Pattern-75963a00-ed19-4c11-a757-7c839738d190",
+									"Type":	"BlockSet",
+									"Skip":	false,
+									"BlockSet":	{
+										"$NodeId":	"BlockSet.BlockMask-70d47573-eb42-4307-b74f-4db8320d834e",
+										"Inclusive":	true,
+										"Materials":	[{
+												"$NodeId":	"Material-5d09bd83-093f-49da-859e-bb1ac7b33470",
+												"Solid":	"Wood_Redwood_Trunk",
+												"SolidBottomUp":	false
+											}, {
+												"$NodeId":	"Material-d9d95a30-be06-47c1-8849-6fcb76f90a69",
+												"Solid":	"Wood_Redwood_Trunk_Full",
+												"SolidBottomUp":	false
+											}]
+									}
+								},
+								"Offset":	{
+									"$NodeId":	"Integer.Vector3d-c9a19b79-8a3d-4903-9470-b67201535cba",
+									"X":	-14,
+									"Y":	18,
+									"Z":	73
+								}
+							}]
+					}
+				}
+			}, {
+				"$NodeId":	"FieldFunction.Positions-f44054aa-d214-48b6-ab8b-0820a82fb9bd",
+				"Type":	"FieldFunction",
+				"Skip":	false,
+				"FieldFunction":	{
+					"$NodeId":	"Imported.Density-d4693437-71e4-4000-9c84-bdcbebba3015",
+					"Type":	"Imported",
+					"Skip":	false,
+					"Name":	"Base_Mountains"
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.Positions-42b8bb42-9ac0-4b9a-9a2c-5899cf4e067f",
+						"$Comment":	"don't place on mountains",
+						"Min":	-2.0,
+						"Max":	0.1
+					}]
+			}, {
+				"$NodeId":	"Origin.Scanner-3a4e95f4-74a8-4da9-9ff0-ffd11f0883a9",
+				"Type":	"Origin",
+				"Skip":	false
+			}, {
+				"$NodeId":	"Runtime-b849e73f-3010-4b86-9980-29f548792f70",
+				"Skip":	true,
+				"Runtime":	4,
+				"ContextPrecision":	"Biome"
+			}, {
+				"$NodeId":	"FieldFunction.Positions-a3c18ad1-de62-499f-a629-2f6acff1266d",
+				"Type":	"FieldFunction",
+				"Skip":	false,
+				"FieldFunction":	{
+					"$NodeId":	"Exported.Density-2988f431-5ebe-4918-9351-0ca3a7423241",
+					"Type":	"Exported",
+					"ExportAs":	"Terrain_Gradient",
+					"SingleInstance":	true,
+					"Skip":	false,
+					"Inputs":	[{
+							"$NodeId":	"Cache.Density-70f3576f-15af-48f4-ae7c-706e53611403",
+							"Type":	"Cache",
+							"Skip":	false,
+							"Capacity":	3,
+							"Inputs":	[{
+									"$NodeId":	"Angle.Density-fe81006f-e4c5-4f95-9e34-cb248fc1c3c7",
+									"Type":	"Angle",
+									"Skip":	false,
+									"IsAxis":	false,
+									"Vector":	{
+										"$NodeId":	"Decimal.Vector3d-bc470730-ef65-4f11-ae7d-965545375e24",
+										"X":	0.0,
+										"Y":	-1.0,
+										"Z":	0.0
+									},
+									"VectorProvider":	{
+										"$NodeId":	"DensityGradient.VectorProvider-7bb1b134-1bf2-4682-9fc1-b4967f3e30ef",
+										"Type":	"DensityGradient",
+										"Skip":	false,
+										"SampleDistance":	1.0,
+										"Density":	{
+											"$NodeId":	"Terrain.Density-7048aa85-2e94-4699-ae16-885d54b19891",
+											"Type":	"Terrain",
+											"Skip":	false
+										}
+									}
+								}]
+						}]
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.Positions-d731e7da-270c-4611-bde0-72d4df4f3fc9",
+						"Min":	0.0,
+						"Max":	20.0
+					}]
+			}, {
+				"$NodeId":	"Imported.Density-add6d19b-dd70-403d-ab72-b4c9004bf421",
+				"Type":	"Imported",
+				"Skip":	false,
+				"Name":	"All_Terrain_3D"
+			}, {
+				"$NodeId":	"FieldFunction.Positions-c4df822b-4ffc-4348-8786-dde2fcf815fb",
+				"Type":	"FieldFunction",
+				"Skip":	false,
+				"FieldFunction":	{
+					"$NodeId":	"Imported.Density-4772c2a2-a63f-4709-bdfc-93dc399f188e",
+					"Type":	"Imported",
+					"Skip":	false,
+					"Name":	"Terrain_Gradient"
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.Positions-a281a665-5861-409d-868c-d6b3789a6f5e",
+						"Min":	0.0,
+						"Max":	30.0
+					}]
+			}, {
+				"$NodeId":	"WeightedPath.Prefab.Prop-69228dd9-e24c-43f5-a1a7-58144f79d573",
+				"Path":	"Redwood_House_001.prefab.json",
+				"Weight":	4.0
+			}, {
 				"$NodeId":	"Imported.Density-ef650d2a-4575-416f-bed0-52c6bf0a2207",
 				"Type":	"Imported",
 				"Skip":	false,
@@ -15090,10 +15089,6 @@
 				"Solid":	"Rock_Stone",
 				"SolidBottomUp":	false
 			}, {
-				"$NodeId":	"Terrain.Density-7048aa85-2e94-4699-ae16-885d54b19891",
-				"Type":	"Terrain",
-				"Skip":	false
-			}, {
 				"$NodeId":	"Material-1305071f-07d8-4c5c-94a5-75ce93565965",
 				"Solid":	"Rock_Basalt",
 				"SolidBottomUp":	false
@@ -15388,7 +15383,7 @@
 				},
 				"$width":	5689.4375,
 				"$height":	2386.875,
-				"$name":	"Wall Mushrooms"
+				"$name":	"Wall/Ceiling Mushrooms"
 			}, {
 				"$Position":	{
 					"$x":	2009.3125,
@@ -15540,7 +15535,7 @@
 				},
 				"$width":	5754.375,
 				"$height":	2869.125,
-				"$name":	"Kweebec Redwood House + rare red giant mushroom"
+				"$name":	"Rare red giant mushroom"
 			}, {
 				"$Position":	{
 					"$x":	-155.5625,
@@ -15565,14 +15560,6 @@
 				"$width":	5336.8125,
 				"$height":	2285.25,
 				"$name":	"Snow on Leaves"
-			}, {
-				"$Position":	{
-					"$x":	12082,
-					"$y":	12943.25
-				},
-				"$width":	9037.5,
-				"$height":	12608.5,
-				"$name":	"TODO fix these assignemnts"
 			}],
 		"$Comments":	[{
 				"$Position":	{
@@ -15636,7 +15623,7 @@
 				"$width":	250,
 				"$height":	150,
 				"$name":	"Comment",
-				"$text":	"Dont' do a second check so that it doesn't require multiple chuinks of context anymore"
+				"$text":	"Don't do a second check so that it doesn't require multiple chunks of context anymore"
 			}, {
 				"$Position":	{
 					"$x":	17181.0625,
@@ -15645,7 +15632,7 @@
 				"$width":	250,
 				"$height":	150,
 				"$name":	"Comment",
-				"$text":	"Dont' do a second check so that it doesn't require multiple chuinks of context anymore"
+				"$text":	"Don't do a second check so that it doesn't require multiple chunks of context anymore"
 			}, {
 				"$Position":	{
 					"$x":	12593.0625,
@@ -15655,6 +15642,24 @@
 				"$height":	150,
 				"$name":	"Comment",
 				"$text":	"https://pre-release.docs.hytale.com/hytale-generator/prop-runtime/#decision-helper"
+			}, {
+				"$Position":	{
+					"$x":	14685.375,
+					"$y":	16351.875
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	"not working"
+			}, {
+				"$Position":	{
+					"$x":	16693,
+					"$y":	19595.375
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	"gradient not working"
 			}],
 		"$WorkspaceID":	"HytaleGenerator - Biome"
 	}

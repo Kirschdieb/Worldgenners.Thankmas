@@ -2409,65 +2409,78 @@
 											"ToMin":	-20.0,
 											"ToMax":	20.0,
 											"Inputs":	[{
-													"$NodeId":	"Sum.Density-65956eac-0f76-4c7b-aac7-b07fb33af717",
-													"Type":	"Sum",
+													"$NodeId":	"Exported.Density-363fa5ae-cadd-40c2-bcd4-a1c860dfdff7",
+													"Type":	"Exported",
 													"ExportAs":	"Snow_White",
+													"SingleInstance":	true,
 													"Skip":	false,
 													"Inputs":	[{
-															"$NodeId":	"Multiplier.Density-331e8c06-2608-4fbd-b8b5-9c4b3202c88d",
-															"Type":	"Multiplier",
+															"$NodeId":	"Cache.Density-eb099055-7a3a-47f0-a6d7-2a5134ea5b9a",
+															"Type":	"Cache",
 															"Skip":	false,
+															"Capacity":	1,
 															"Inputs":	[{
-																	"$NodeId":	"SimplexNoise2D.Density-f8d2d462-b9d7-4fe4-babd-e1c970fb1150",
-																	"Type":	"SimplexNoise2D",
-																	"ExportAs":	"Snow_Makro",
-																	"Skip":	false,
-																	"Lacunarity":	2.0,
-																	"Persistence":	0.5,
-																	"Octaves":	1,
-																	"Scale":	900.0
-																}, {
-																	"$NodeId":	"Constant.Density-9999bc77-b0bb-498e-97f3-9a841862a491",
-																	"Type":	"Constant",
-																	"Skip":	false,
-																	"Value":	0.9
-																}]
-														}, {
-															"$NodeId":	"Multiplier.Density-78587c1e-bfac-417b-a7e4-50b69efa27ee",
-															"Type":	"Multiplier",
-															"Skip":	false,
-															"Inputs":	[{
-																	"$NodeId":	"SimplexNoise2D.Density-ce538992-1f86-4d9c-b78c-26312de083bb",
-																	"Type":	"SimplexNoise2D",
+																	"$NodeId":	"Sum.Density-65956eac-0f76-4c7b-aac7-b07fb33af717",
+																	"Type":	"Sum",
 																	"ExportAs":	"",
 																	"Skip":	false,
-																	"Lacunarity":	2.0,
-																	"Persistence":	0.5,
-																	"Octaves":	1,
-																	"Scale":	300.0
-																}, {
-																	"$NodeId":	"Constant.Density-9519c752-b6f0-4162-b7ac-ddc54b1c2161",
-																	"Type":	"Constant",
-																	"Skip":	false,
-																	"Value":	0.05
-																}]
-														}, {
-															"$NodeId":	"Multiplier.Density-7f91049d-9f3b-40f5-bc8e-8154d3e7d3d7",
-															"Type":	"Multiplier",
-															"Skip":	false,
-															"Inputs":	[{
-																	"$NodeId":	"SimplexNoise2D.Density-2eaa3f77-f563-4a57-9b40-4cdd59acab80",
-																	"Type":	"SimplexNoise2D",
-																	"Skip":	false,
-																	"Lacunarity":	2.0,
-																	"Persistence":	0.5,
-																	"Octaves":	2,
-																	"Scale":	20.0
-																}, {
-																	"$NodeId":	"Constant.Density-629e1b20-3bdd-4684-a8b6-75750dd5363a",
-																	"Type":	"Constant",
-																	"Skip":	false,
-																	"Value":	0.05
+																	"Inputs":	[{
+																			"$NodeId":	"Multiplier.Density-331e8c06-2608-4fbd-b8b5-9c4b3202c88d",
+																			"Type":	"Multiplier",
+																			"Skip":	false,
+																			"Inputs":	[{
+																					"$NodeId":	"SimplexNoise2D.Density-f8d2d462-b9d7-4fe4-babd-e1c970fb1150",
+																					"Type":	"SimplexNoise2D",
+																					"ExportAs":	"Snow_Makro",
+																					"Skip":	false,
+																					"Lacunarity":	2.0,
+																					"Persistence":	0.5,
+																					"Octaves":	1,
+																					"Scale":	800.0
+																				}, {
+																					"$NodeId":	"Constant.Density-9999bc77-b0bb-498e-97f3-9a841862a491",
+																					"Type":	"Constant",
+																					"Skip":	false,
+																					"Value":	0.9
+																				}]
+																		}, {
+																			"$NodeId":	"Multiplier.Density-78587c1e-bfac-417b-a7e4-50b69efa27ee",
+																			"Type":	"Multiplier",
+																			"Skip":	false,
+																			"Inputs":	[{
+																					"$NodeId":	"SimplexNoise2D.Density-ce538992-1f86-4d9c-b78c-26312de083bb",
+																					"Type":	"SimplexNoise2D",
+																					"ExportAs":	"",
+																					"Skip":	false,
+																					"Lacunarity":	2.0,
+																					"Persistence":	0.5,
+																					"Octaves":	1,
+																					"Scale":	300.0
+																				}, {
+																					"$NodeId":	"Constant.Density-9519c752-b6f0-4162-b7ac-ddc54b1c2161",
+																					"Type":	"Constant",
+																					"Skip":	false,
+																					"Value":	0.05
+																				}]
+																		}, {
+																			"$NodeId":	"Multiplier.Density-7f91049d-9f3b-40f5-bc8e-8154d3e7d3d7",
+																			"Type":	"Multiplier",
+																			"Skip":	false,
+																			"Inputs":	[{
+																					"$NodeId":	"SimplexNoise2D.Density-2eaa3f77-f563-4a57-9b40-4cdd59acab80",
+																					"Type":	"SimplexNoise2D",
+																					"Skip":	false,
+																					"Lacunarity":	2.0,
+																					"Persistence":	0.5,
+																					"Octaves":	2,
+																					"Scale":	20.0
+																				}, {
+																					"$NodeId":	"Constant.Density-629e1b20-3bdd-4684-a8b6-75750dd5363a",
+																					"Type":	"Constant",
+																					"Skip":	false,
+																					"Value":	0.05
+																				}]
+																		}]
 																}]
 														}]
 												}]
@@ -14364,6 +14377,18 @@
 				"$Position":	{
 					"$x":	11640,
 					"$y":	-1466
+				}
+			},
+			"Exported.Density-363fa5ae-cadd-40c2-bcd4-a1c860dfdff7":	{
+				"$Position":	{
+					"$x":	9347,
+					"$y":	-7711
+				}
+			},
+			"Cache.Density-eb099055-7a3a-47f0-a6d7-2a5134ea5b9a":	{
+				"$Position":	{
+					"$x":	10027,
+					"$y":	-7711
 				}
 			}
 		},
