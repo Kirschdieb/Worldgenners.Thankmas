@@ -6,15 +6,22 @@
   "anchorZ": 0,
   "blocks": [
     {
-      "x": -5,
-      "y": 1,
+      "x": -4,
+      "y": -1,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
     },
     {
       "x": -4,
-      "y": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 0,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
@@ -28,58 +35,58 @@
     },
     {
       "x": -3,
-      "y": 2,
-      "z": 0,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 0,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 3
-    },
-    {
-      "x": -3,
-      "y": 7,
+      "y": 5,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
     },
     {
       "x": -2,
-      "y": 1,
-      "z": -2,
+      "y": 0,
+      "z": -1,
       "name": "Plant_Leaves_Fir",
-      "rotation": 3
+      "rotation": 2
     },
     {
       "x": -2,
-      "y": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 5,
       "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
     },
     {
       "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 3
+    },
+    {
+      "x": -2,
       "y": 2,
       "z": 0,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 3
     },
     {
       "x": -2,
-      "y": 4,
+      "y": 5,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
     },
     {
       "x": -2,
-      "y": 7,
+      "y": 6,
       "z": 0,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 3
     },
     {
@@ -91,30 +98,10 @@
     },
     {
       "x": -2,
-      "y": 10,
-      "z": 0,
+      "y": 5,
+      "z": 1,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 1,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -3,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -3,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
     },
     {
       "x": -1,
@@ -127,13 +114,37 @@
       "x": -1,
       "y": 2,
       "z": -2,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 3
     },
     {
       "x": -1,
-      "y": 4,
-      "z": -2,
+      "y": -6,
+      "z": -1,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -1,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -1,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -1,
+      "name": "Wood_Fir_Trunk_Full"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
@@ -142,53 +153,60 @@
       "y": 1,
       "z": -1,
       "name": "Plant_Leaves_Fir",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
     {
       "x": -1,
-      "y": 7,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 8,
       "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
     },
     {
       "x": -1,
-      "y": 10,
+      "y": 9,
       "z": -1,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 15,
-      "z": -1,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 3
     },
     {
       "x": -1,
       "y": 1,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 5,
       "z": 0,
       "name": "Wood_Fir_Branch_Long",
       "rotation": 5
     },
     {
       "x": -1,
-      "y": 2,
-      "z": 0,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 0,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 3
-    },
-    {
-      "x": -1,
-      "y": 7,
+      "y": 6,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
@@ -197,12 +215,12 @@
       "x": -1,
       "y": 8,
       "z": 0,
-      "name": "Wood_Fir_Branch_Corner",
+      "name": "Plant_Leaves_Fir",
       "rotation": 3
     },
     {
       "x": -1,
-      "y": 10,
+      "y": 9,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
@@ -211,12 +229,19 @@
       "x": -1,
       "y": 11,
       "z": 0,
-      "name": "Wood_Fir_Branch_Short",
+      "name": "Plant_Leaves_Fir",
       "rotation": 3
     },
     {
       "x": -1,
-      "y": 13,
+      "y": 12,
+      "z": 0,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 14,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
@@ -224,6 +249,13 @@
     {
       "x": -1,
       "y": 15,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 18,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
@@ -232,18 +264,30 @@
       "x": -1,
       "y": 19,
       "z": 0,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 3
     },
     {
       "x": -1,
       "y": -6,
       "z": 1,
-      "name": "Wood_Fir_Trunk_Full"
+      "name": "Wood_Fir_Roots"
     },
     {
       "x": -1,
       "y": -5,
+      "z": 1,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 1,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": -1,
+      "y": -3,
       "z": 1,
       "name": "Wood_Fir_Trunk_Full"
     },
@@ -255,30 +299,46 @@
     },
     {
       "x": -1,
-      "y": 4,
+      "y": 2,
       "z": 1,
-      "name": "Plant_Leaves_Fir"
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
     },
     {
       "x": -1,
       "y": 5,
       "z": 1,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 3
+      "name": "Plant_Leaves_Fir"
     },
     {
       "x": -1,
-      "y": 7,
+      "y": 6,
       "z": 1,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 3
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
     },
     {
       "x": -1,
       "y": 8,
+      "z": 1,
+      "name": "Plant_Leaves_Fir"
+    },
+    {
+      "x": -1,
+      "y": 0,
       "z": 2,
       "name": "Plant_Leaves_Fir",
       "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Plant_Leaves_Fir"
     },
     {
       "x": 0,
@@ -296,22 +356,15 @@
     },
     {
       "x": 0,
-      "y": 2,
+      "y": 1,
       "z": -3,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
     {
       "x": 0,
-      "y": 4,
-      "z": -3,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -3,
+      "y": 1,
+      "z": -2,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
@@ -324,33 +377,39 @@
     },
     {
       "x": 0,
-      "y": 4,
+      "y": 8,
       "z": -2,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
     {
       "x": 0,
-      "y": 7,
+      "y": 9,
       "z": -2,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 2
     },
     {
       "x": 0,
-      "y": 10,
-      "z": -2,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
+      "y": -4,
+      "z": -1,
+      "name": "Wood_Fir_Roots"
     },
     {
       "x": 0,
-      "y": -2,
+      "y": -3,
       "z": -1,
       "name": "Wood_Fir_Trunk_Full"
     },
     {
       "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 2
+    },
+    {
+      "x": 0,
       "y": 2,
       "z": -1,
       "name": "Plant_Leaves_Fir",
@@ -358,21 +417,14 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": -1,
-      "name": "Wood_Fir_Branch_Long",
-      "rotation": 4
-    },
-    {
-      "x": 0,
-      "y": 5,
+      "y": 3,
       "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
     {
       "x": 0,
-      "y": 7,
+      "y": 6,
       "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
@@ -381,6 +433,13 @@
       "x": 0,
       "y": 8,
       "z": -1,
+      "name": "Wood_Fir_Branch_Long",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
@@ -388,7 +447,7 @@
       "x": 0,
       "y": 10,
       "z": -1,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 2
     },
     {
@@ -400,9 +459,9 @@
     },
     {
       "x": 0,
-      "y": 13,
+      "y": 12,
       "z": -1,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 2
     },
     {
@@ -421,16 +480,30 @@
     },
     {
       "x": 0,
-      "y": 19,
+      "y": 16,
+      "z": -1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 17,
       "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
     {
       "x": 0,
-      "y": 20,
+      "y": 18,
       "z": -1,
       "name": "Plant_Leaves_Fir",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": -1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 2
     },
     {
@@ -587,25 +660,8 @@
       "x": 0,
       "y": 23,
       "z": 0,
-      "name": "Plant_Leaves_Fir_Tip"
-    },
-    {
-      "x": 0,
-      "y": 24,
-      "z": 0,
-      "name": "Plant_Leaves_Fir_Tip"
-    },
-    {
-      "x": 0,
-      "y": -5,
-      "z": 1,
-      "name": "Wood_Fir_Trunk"
-    },
-    {
-      "x": 0,
-      "y": -4,
-      "z": 1,
-      "name": "Wood_Fir_Trunk"
+      "name": "Plant_Leaves_Fir_Tip_Snow_SupportFix",
+      "rotation": 1
     },
     {
       "x": 0,
@@ -621,6 +677,12 @@
     },
     {
       "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Leaves_Fir"
+    },
+    {
+      "x": 0,
       "y": 2,
       "z": 1,
       "name": "Plant_Leaves_Fir"
@@ -629,12 +691,11 @@
       "x": 0,
       "y": 5,
       "z": 1,
-      "name": "Wood_Fir_Branch_Long",
-      "rotation": 4
+      "name": "Plant_Leaves_Fir"
     },
     {
       "x": 0,
-      "y": 7,
+      "y": 6,
       "z": 1,
       "name": "Plant_Leaves_Fir"
     },
@@ -642,11 +703,11 @@
       "x": 0,
       "y": 8,
       "z": 1,
-      "name": "Plant_Leaves_Fir"
+      "name": "Wood_Fir_Branch_Short"
     },
     {
       "x": 0,
-      "y": 10,
+      "y": 9,
       "z": 1,
       "name": "Plant_Leaves_Fir"
     },
@@ -654,11 +715,11 @@
       "x": 0,
       "y": 11,
       "z": 1,
-      "name": "Plant_Leaves_Fir"
+      "name": "Wood_Fir_Branch_Corner"
     },
     {
       "x": 0,
-      "y": 13,
+      "y": 12,
       "z": 1,
       "name": "Plant_Leaves_Fir"
     },
@@ -676,7 +737,7 @@
     },
     {
       "x": 0,
-      "y": 16,
+      "y": 17,
       "z": 1,
       "name": "Plant_Leaves_Fir"
     },
@@ -684,7 +745,7 @@
       "x": 0,
       "y": 18,
       "z": 1,
-      "name": "Plant_Leaves_Fir"
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
     },
     {
       "x": 0,
@@ -696,19 +757,7 @@
       "x": 0,
       "y": 2,
       "z": 2,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 2,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 2,
-      "name": "Plant_Leaves_Fir"
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
     },
     {
       "x": 0,
@@ -718,15 +767,9 @@
     },
     {
       "x": 0,
-      "y": 10,
+      "y": 9,
       "z": 2,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": 0,
-      "y": 11,
-      "z": 2,
-      "name": "Plant_Leaves_Fir"
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
     },
     {
       "x": 0,
@@ -738,124 +781,149 @@
       "x": 0,
       "y": 1,
       "z": 3,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 3,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 3,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": 0,
-      "y": 0,
-      "z": 4,
-      "name": "Plant_Leaves_Fir"
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 4,
       "name": "Plant_Leaves_Fir"
     },
     {
       "x": 1,
-      "y": 1,
+      "y": 0,
       "z": -3,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
     {
       "x": 1,
-      "y": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -3,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
       "z": -2,
       "name": "Plant_Leaves_Fir",
-      "rotation": 1
+      "rotation": 2
     },
     {
       "x": 1,
-      "y": 4,
+      "y": 1,
       "z": -2,
       "name": "Plant_Leaves_Fir",
-      "rotation": 1
+      "rotation": 2
     },
     {
       "x": 1,
-      "y": 7,
+      "y": 5,
       "z": -2,
       "name": "Plant_Leaves_Fir",
-      "rotation": 1
+      "rotation": 2
     },
     {
       "x": 1,
-      "y": -6,
-      "z": -1,
-      "name": "Wood_Fir_Roots"
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 2
     },
     {
       "x": 1,
-      "y": -5,
-      "z": -1,
-      "name": "Wood_Fir_Trunk"
-    },
-    {
-      "x": 1,
-      "y": -4,
-      "z": -1,
-      "name": "Wood_Fir_Trunk"
-    },
-    {
-      "x": 1,
-      "y": -3,
-      "z": -1,
-      "name": "Wood_Fir_Trunk"
-    },
-    {
-      "x": 1,
-      "y": -2,
-      "z": -1,
-      "name": "Wood_Fir_Trunk_Full"
-    },
-    {
-      "x": 1,
-      "y": 2,
+      "y": 1,
       "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 2
     },
     {
       "x": 1,
-      "y": 4,
+      "y": 6,
       "z": -1,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -1,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
     },
     {
       "x": 1,
       "y": 8,
       "z": -1,
       "name": "Plant_Leaves_Fir",
-      "rotation": 2
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
     },
     {
       "x": 1,
       "y": 10,
       "z": -1,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": -1,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": -1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": 0,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 0,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 0,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 0,
+      "name": "Wood_Fir_Trunk"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 0,
+      "name": "Wood_Fir_Trunk_Full"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
     },
     {
       "x": 1,
@@ -868,8 +936,8 @@
       "x": 1,
       "y": 4,
       "z": 0,
-      "name": "Wood_Fir_Branch_Short",
-      "rotation": 1
+      "name": "Wood_Fir_Branch_Long",
+      "rotation": 5
     },
     {
       "x": 1,
@@ -880,7 +948,7 @@
     },
     {
       "x": 1,
-      "y": 7,
+      "y": 6,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
@@ -894,9 +962,16 @@
     },
     {
       "x": 1,
-      "y": 10,
+      "y": 9,
       "z": 0,
       "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 1
     },
     {
@@ -908,7 +983,21 @@
     },
     {
       "x": 1,
+      "y": 12,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 1,
       "y": 13,
+      "z": 0,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 14,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
@@ -924,7 +1013,7 @@
       "x": 1,
       "y": 16,
       "z": 0,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 1
     },
     {
@@ -936,7 +1025,21 @@
     },
     {
       "x": 1,
-      "y": 2,
+      "y": 19,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 20,
+      "z": 0,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
       "z": 1,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
@@ -950,14 +1053,27 @@
     },
     {
       "x": 1,
-      "y": 10,
+      "y": 6,
       "z": 1,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
     },
     {
       "x": 1,
-      "y": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
+    },
+    {
+      "x": 1,
+      "y": 0,
       "z": 2,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
@@ -965,49 +1081,76 @@
     {
       "x": 1,
       "y": 1,
-      "z": 4,
+      "z": 2,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
       "name": "Plant_Leaves_Fir"
     },
     {
-      "x": 2,
-      "y": 1,
-      "z": -3,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix"
     },
     {
       "x": 2,
-      "y": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
       "z": -2,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
     },
     {
       "x": 2,
-      "y": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
       "z": -1,
       "name": "Plant_Leaves_Fir",
-      "rotation": 2
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
     },
     {
       "x": 2,
       "y": 2,
-      "z": -1,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": -1,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 2
-    },
-    {
-      "x": 2,
-      "y": 2,
       "z": 0,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 1
     },
     {
@@ -1019,61 +1162,63 @@
     },
     {
       "x": 2,
-      "y": 7,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 8,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
     },
     {
       "x": 2,
-      "y": 10,
+      "y": 9,
       "z": 0,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 1
     },
     {
       "x": 2,
-      "y": 1,
+      "y": 5,
       "z": 1,
-      "name": "Plant_Leaves_Fir"
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
     },
     {
       "x": 2,
-      "y": 4,
+      "y": 6,
       "z": 1,
-      "name": "Plant_Leaves_Fir"
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
     },
     {
-      "x": 3,
-      "y": 1,
-      "z": -1,
+      "x": 2,
+      "y": 8,
+      "z": 1,
       "name": "Plant_Leaves_Fir",
-      "rotation": 2
+      "rotation": 1
     },
     {
-      "x": 3,
-      "y": 1,
-      "z": 0,
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
     },
     {
       "x": 3,
-      "y": 2,
-      "z": 0,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": 0,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 1
-    },
-    {
-      "x": 3,
-      "y": 7,
+      "y": 0,
       "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
@@ -1081,14 +1226,21 @@
     {
       "x": 3,
       "y": 1,
-      "z": 1,
+      "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
     },
     {
       "x": 3,
       "y": 4,
-      "z": 1,
+      "z": 0,
+      "name": "Plant_Leaves_Fir",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
       "name": "Plant_Leaves_Fir",
       "rotation": 1
     },
@@ -1096,14 +1248,7 @@
       "x": 4,
       "y": 1,
       "z": 0,
-      "name": "Plant_Leaves_Fir",
-      "rotation": 1
-    },
-    {
-      "x": 5,
-      "y": 1,
-      "z": 0,
-      "name": "Plant_Leaves_Fir",
+      "name": "Plant_Leaves_Fir_Snow_SupportFix",
       "rotation": 1
     }
   ]
