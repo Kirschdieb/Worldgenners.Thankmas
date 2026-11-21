@@ -1,0 +1,61 @@
+{
+  "Version": 4,
+  "UUID": {
+    "$binary": "upaadotKT7mj0lBmFgiFGw==",
+    "$type": "04"
+  },
+  "Seed": 1794277830506,
+  "WorldGen": {
+    "Type": "HytaleGenerator",
+    "WorldStructure": "Breach"
+  },
+  "WorldMap": {
+    "Type": "WorldGen"
+  },
+  "ChunkStorage": {
+    "Type": "Hytale"
+  },
+  "ChunkConfig": {},
+  "IsTicking": false,
+  "IsBlockTicking": true,
+  "IsPvpEnabled": false,
+  "IsFallDamageEnabled": true,
+  "IsGameTimePaused": false,
+  "GameTime": "0001-01-02T21:34:16.791635119Z",
+  "ClientEffects": {
+    "SunHeightPercent": 100.0,
+    "SunAngleDegrees": 0.0,
+    "BloomIntensity": 0.30000001192092896,
+    "BloomPower": 8.0,
+    "SunIntensity": 0.25,
+    "SunshaftIntensity": 0.30000001192092896,
+    "SunshaftScaleFactor": 4.0
+  },
+  "RequiredPlugins": {},
+  "GameMode": "Creative",
+  "IsSpawningNPC": true,
+  "IsBlockSpawnersEnabled": true,
+  "IsSpawnMarkersEnabled": true,
+  "IsAllNPCFrozen": true,
+  "GameplayConfig": "InstanceEdit",
+  "IsCompassUpdating": true,
+  "IsSavingPlayers": false,
+  "IsSavingChunks": false,
+  "SaveNewChunks": false,
+  "IsUnloadingChunks": true,
+  "IsObjectiveMarkersEnabled": true,
+  "DeleteOnUniverseStart": false,
+  "DeleteOnRemove": false,
+  "DisabledFluidTickers": [],
+  "ResourceStorage": {
+    "Type": "Hytale"
+  },
+  "Plugin": {
+    "Instance": {
+      "RemovalConditions": [],
+      "PreventReconnection": false,
+      "InheritWorldSettings": false,
+      "RespawnWhenTargeted": false
+    }
+  }
+}
