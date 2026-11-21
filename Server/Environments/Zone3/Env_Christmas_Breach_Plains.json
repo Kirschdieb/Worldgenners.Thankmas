@@ -1,0 +1,153 @@
+{
+  "WaterTint": "#83d5ff",
+  "SpawnDensity": 1.5,
+  "Tags": {
+    "Zone3": []
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Christmas_Breach_Snow_Light",
+        "Weight": 0
+      }
+    ]
+  }
+}
