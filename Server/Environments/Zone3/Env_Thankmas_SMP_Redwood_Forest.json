@@ -1,0 +1,155 @@
+{
+  "WaterTint": "#2076b5",
+  "SpawnDensity": 0.9,
+  "Tags": {
+    "Zone3": [
+      "Forests"
+    ]
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Thankmas_SMP_Redwood_Forest",
+        "Weight": 100
+      }
+    ]
+  }
+}
