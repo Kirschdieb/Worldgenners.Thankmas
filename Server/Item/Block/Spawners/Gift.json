@@ -1,0 +1,59 @@
+{
+  "Entries": [
+    {
+      "Name": "Furniture_Christmas_Chest_Small_White",
+      "Weight": 100,
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "Gift_Common"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Furniture_Christmas_Chest_Small_Red",
+      "Weight": 100,
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "Gift_Common"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Furniture_Christmas_Chest_Small_Green",
+      "Weight": 100,
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "Gift_Common"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Furniture_Christmas_Chest_Small_RedDotted",
+      "Weight": 100,
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "Gift_Common"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Furniture_Christmas_Chest_Small",
+      "Weight": 100,
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "Gift_Common"
+          }
+        }
+      }
+    }
+  ]
+}
