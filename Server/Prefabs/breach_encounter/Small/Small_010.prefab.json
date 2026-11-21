@@ -1,0 +1,3843 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Ice_Trunk_Half",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Ice_Trunk_Half",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Ice_Stalactite_Large",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Yellow2_Stairs",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Ice_Trunk_Half",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Ice_Trunk_Half",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Deco_Giftbox",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Thankmas_Garland_Acorns",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "*Soil_Clay_Smooth_Yellow2_Half_State_Definitions_Block",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Yellow2_Half",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Thankmas_Garland_Acorns",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ice_Icicles",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Ice_Enchanted",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Ice",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Ice_Enchanted",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ice_Icicles",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Ice_Icicles",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Ice_Icicles",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Deco_Giftbox",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Deco_Giftbox",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    }
+  ],
+  "fluids": [
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 3.68151456596172,
+            "Y": 1.0,
+            "Z": -1.024727659049185
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.745556116104126,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "mR0xQzAtSYS3JAvPcalhtA==",
+            "$type": "04"
+          },
+          "Type": "MEMBER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 0.9643269181251526,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "MTYjiD4zPRObneaN/wpOTg==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "MTYjiD4zPRObneaN/wpOTg==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 0.9643269181251526,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -73.61672903060008,
+            "Y": 82.0,
+            "Z": -0.39386223524013536
+          },
+          "LeashHdg": -2.743828773498535,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.7455563545227051,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": -0.9535070446185472,
+            "Y": 6.0,
+            "Z": -2.0586916407536817
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.18916749954223633,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "qZBaKRqYTD+PhFptzpcgcA==",
+            "$type": "04"
+          },
+          "Type": "MEMBER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 1.020026683807373,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "wEgzwBWgMACff29qpdg2wA==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "wEgzwBWgMACff29qpdg2wA==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.020026683807373,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -79.21876329226589,
+            "Y": 80.5,
+            "Z": 0.4371476169877828
+          },
+          "LeashHdg": 3.010439872741699,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.18916749954223633,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 3.1100369209983683,
+            "Y": 0.0,
+            "Z": 4.759398837628961
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.0994824171066284,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "/THFn5PXR/GSE58uPBLfsA==",
+            "$type": "04"
+          },
+          "Type": "MEMBER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.6408715295791274,
+            "Y": 0.0,
+            "Z": -0.3281519222259463
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 0.9704915881156921,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "3PJIy+fVMbCHiaC/MsMusg==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "3PJIy+fVMbCHiaC/MsMusg==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 0.9704915881156921,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -79.33944847829062,
+            "Y": 80.0,
+            "Z": -4.800606558894924
+          },
+          "LeashHdg": 1.5209476947784424,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.099482536315918,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 1.7341302102989147,
+            "Y": 0.0,
+            "Z": 4.7127709570980105
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -2.832742691040039,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "SHCer/pERVK+kVdzXIhmiQ==",
+            "$type": "04"
+          },
+          "Type": "MEMBER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 0.9921160340309143,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "sO0cCLb1M4ywbhOyRUjGVg==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "sO0cCLb1M4ywbhOyRUjGVg==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 0.9921160340309143,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -77.13108474136936,
+            "Y": 80.0,
+            "Z": -7.278235422291231
+          },
+          "LeashHdg": 1.120859146118164,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -2.832742691040039,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 2.3108475392561587,
+            "Y": 0.0,
+            "Z": -3.8625426363418187
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.32874155044555664,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "9HS9NiisRaWpv9ebfKhFiA==",
+            "$type": "04"
+          },
+          "Type": "MEMBER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 1.011644721031189,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "iDU3Yjj2MwKb8Mb2ixEqLw==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "iDU3Yjj2MwKb8Mb2ixEqLw==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.011644721031189,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -76.26511554923782,
+            "Y": 80.0,
+            "Z": -7.099559535623921
+          },
+          "LeashHdg": 1.7234201431274414,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.32874155044555664,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": -0.1986541748046875,
+            "Y": 0.0,
+            "Z": 4.505162715911865
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 2.381509304046631,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "qdU3qQ9aRQug7m6e9ahb3A==",
+            "$type": "04"
+          },
+          "Type": "MEMBER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 1.0106937885284424,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "wRkeMN+nP1eO/PFyZ9z9pA==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "wRkeMN+nP1eO/PFyZ9z9pA==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0106937885284424,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -72.05681731271305,
+            "Y": 80.0,
+            "Z": 1.7148925761169478
+          },
+          "LeashHdg": -0.25872802734375,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 2.381509304046631,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 2.3832709693999163,
+            "Y": 2.0,
+            "Z": 1.6061377647598647
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -2.743828773498535,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockData": {
+          "MaxGrowSize": 2147483647,
+          "AllowedRoles": [
+            "Penguin"
+          ],
+          "Size": 3
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "mR0xQzAtSYS3JAvPcalhtA==",
+            "$type": "04"
+          },
+          "Type": "LEADER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 0.9974520802497864,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "KBXfW/QdOpShMbVfDunLMA==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "KBXfW/QdOpShMbVfDunLMA==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 0.9974520802497864,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -78.5,
+            "Y": 81.0,
+            "Z": -2.5
+          },
+          "LeashHdg": 1.4529943466186523,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -2.743828773498535,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 3.9431826872869493,
+            "Y": 0.0,
+            "Z": 3.714892576116948
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.25872802734375,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "FlockData": {
+          "MaxGrowSize": 2147483647,
+          "AllowedRoles": [
+            "Penguin"
+          ],
+          "Size": 2
+        },
+        "FlockMembership": {
+          "Version": 5,
+          "FlockId": {
+            "$binary": "qdU3qQ9aRQug7m6e9ahb3A==",
+            "$type": "04"
+          },
+          "Type": "LEADER"
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Penguin",
+            "Scale": 1.0166951417922974,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "lxz1H+PEOoKUVhLjKlBn3w==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 38.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -62.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "lxz1H+PEOoKUVhLjKlBn3w==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0166951417922974,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -78.5,
+            "Y": 81.0,
+            "Z": -2.5
+          },
+          "LeashHdg": 1.4529943466186523,
+          "LeashPtch": 0.0,
+          "RoleName": "Penguin",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.25872802734375,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

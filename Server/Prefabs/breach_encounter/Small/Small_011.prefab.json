@@ -1,0 +1,4948 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -6,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Bush_Winter_Snow",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Bush_Winter_Snow",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Survival_Trap_Snapjaw",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Bush_Winter_Snow",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Stairs",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Stairs",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Stairs",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Stairs",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Deco_Giftbox",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -5,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Giftbox",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Festive_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Frozen_Bench",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Frozen_Bench",
+      "filler": 1,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Frozen_Vase",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 5,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 6,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -4,
+      "name": "Gingerbread_Window_Stained",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Frozen_Vase",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 5,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 6,
+      "name": "Gingerbread_Window_Stained",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 6,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Frozen_Pot",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Frozen_Bed",
+      "filler": 30,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Frozen_Bed",
+      "filler": 1054,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Frozen_Bed",
+      "filler": 62,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Frozen_Bed",
+      "filler": 1086,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Frozen_Vase",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 5,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 6,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Frozen_Bed",
+      "filler": 31,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Frozen_Bed",
+      "filler": 1055,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Frozen_Bed",
+      "filler": 63,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Frozen_Bed",
+      "filler": 1087,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Festive_Gingerbread_Stool_Red",
+      "components": {
+        "Components": {}
+      },
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread_Table_Long",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 6,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Snow_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Frozen_Bed",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "MPHUpLOaS6efxfnko+aohw==",
+              "$type": "04"
+            }
+          },
+          "RespawnBlock": {}
+        }
+      },
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Frozen_Bed",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Frozen_Bed",
+      "filler": 32,
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -1,
+      "name": "Frozen_Bed",
+      "filler": 1056,
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread_Table_Long",
+      "filler": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "name": "Icy_Potion",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 5,
+      "name": "Soil_Snow_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 6,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -3,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Block_Spawner_Block",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "MPHUpLOaS6efxfnko+aohw==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Gift"
+          }
+        }
+      },
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Festive_Gingerbread_Sidetable",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 4,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "name": "Deco_Giftbox",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "name": "Gingerbread_Window_Stained",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Snow_Brick_Half",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Snow_Brick",
+      "rotation": 3
+    }
+  ],
+  "fluids": [
+    {
+      "x": -6,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 2,
+            "Items": {
+              "0": {
+                "Id": "Furniture_Crude_Torch",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {
+              "0": {
+                "Id": "Weapon_Crossbow_Ancient_Steel",
+                "Quantity": 1,
+                "Durability": 500.0,
+                "MaxDurability": 500.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 1.3210728990526235,
+            "Y": 0.0,
+            "Z": 1.7946745174751193
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.6252524852752686,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Frost_Ranger",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "bgPkKx5pM2S412GsR3APpw==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 61.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -39.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 1.0
+                }
+              }
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 6.0
+                }
+              }
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 5.0
+                }
+              }
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "bgPkKx5pM2S412GsR3APpw==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -68.5,
+            "Y": 80.0,
+            "Z": 16.5
+          },
+          "LeashHdg": 1.5084573030471802,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Frost_Ranger",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.6252524852752686,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 2,
+            "Items": {
+              "0": {
+                "Id": "Furniture_Crude_Torch",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {
+              "0": {
+                "Id": "Weapon_Crossbow_Ancient_Steel",
+                "Quantity": 1,
+                "Durability": 500.0,
+                "MaxDurability": 500.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 5.199270297428384,
+            "Y": 0.0,
+            "Z": 1.5780763692888442
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.2483739852905273,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Frost_Ranger",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "U/57VM1FNDucnHDP+0fZQg==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 61.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -39.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 1.0
+                }
+              }
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 6.0
+                }
+              }
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 5.0
+                }
+              }
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "U/57VM1FNDucnHDP+0fZQg==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -68.5,
+            "Y": 80.0,
+            "Z": 16.5
+          },
+          "LeashHdg": 1.5084573030471802,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Frost_Ranger",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.2483739852905273,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 2,
+            "Items": {
+              "0": {
+                "Id": "Furniture_Crude_Torch",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {
+              "0": {
+                "Id": "Weapon_Crossbow_Ancient_Steel",
+                "Quantity": 1,
+                "Durability": 500.0,
+                "MaxDurability": 500.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 4.152938096874465,
+            "Y": 0.0,
+            "Z": 1.5414502890915962
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 2.3063395023345947,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Frost_Ranger",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "lJLkd5yKPrS3mmdZA/8QcA==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 61.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -39.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 1.0
+                }
+              }
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 6.0
+                }
+              }
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 5.0
+                }
+              }
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "lJLkd5yKPrS3mmdZA/8QcA==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -68.5,
+            "Y": 80.0,
+            "Z": 16.5
+          },
+          "LeashHdg": 1.5084573030471802,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Frost_Ranger",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 2.3063395023345947,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 2,
+            "Items": {
+              "0": {
+                "Id": "Furniture_Crude_Torch",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {
+              "0": {
+                "Id": "Weapon_Crossbow_Ancient_Steel",
+                "Quantity": 1,
+                "Durability": 500.0,
+                "MaxDurability": 500.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 6.177743586578799,
+            "Y": 0.0,
+            "Z": 2.0088046221072595
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.5258467197418213,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Frost_Ranger",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "brVfo3DfP3q8++ktOunIlg==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 61.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -39.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 1.0
+                }
+              }
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 6.0
+                }
+              }
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 5.0
+                }
+              }
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "brVfo3DfP3q8++ktOunIlg==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -68.5,
+            "Y": 80.0,
+            "Z": 16.5
+          },
+          "LeashHdg": 1.5084573030471802,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Frost_Ranger",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.5258469581604004,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 2,
+            "Items": {
+              "0": {
+                "Id": "Furniture_Crude_Torch",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {
+              "0": {
+                "Id": "Weapon_Crossbow_Ancient_Steel",
+                "Quantity": 1,
+                "Durability": 500.0,
+                "MaxDurability": 500.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 5.126943730323674,
+            "Y": 0.0,
+            "Z": 1.2373843663606827
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.3699417114257812,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Frost_Ranger",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "/K29N/NxMsGx7mP9UNL1+Q==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 61.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -39.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 1.0
+                }
+              }
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 6.0
+                }
+              }
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0,
+              "Modifiers": {
+                "*Weapon_0": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 5.0
+                }
+              }
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "/K29N/NxMsGx7mP9UNL1+Q==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -68.5,
+            "Y": 80.0,
+            "Z": 16.5
+          },
+          "LeashHdg": 1.5084573030471802,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Frost_Ranger",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.3699417114257812,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 2,
+            "Items": {
+              "0": {
+                "Id": "Furniture_Crude_Torch",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {
+              "0": {
+                "Id": "Weapon_Staff_Frost",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          "ActiveSlot": 0
+        },
+        "MarkedEntitySupport": {},
+        "Transform": {
+          "Position": {
+            "X": 1.1461015879194747,
+            "Y": 0.0,
+            "Z": 0.9026848617901813
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.325770616531372,
+            "Roll": 0.0
+          }
+        },
+        "EntityScale": {
+          "Scale": 1.0
+        },
+        "ModelRotateBoundingBox": {
+          "EnableRotation": false
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          },
+          "OverrideAll": false
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Frost_Archmage",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "x7+EpZIRP5e4WjLQAxSz7A==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 100.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 61.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": -39.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "x7+EpZIRP5e4WjLQAxSz7A==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-04T15:15:29.816189592Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -74.03107452392578,
+            "Y": 82.00625002384186,
+            "Z": 15.838692665100098
+          },
+          "LeashHdg": 0.0,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Frost_Archmage",
+          "ActiveMC": "Walk"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.3257708549499512,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}
