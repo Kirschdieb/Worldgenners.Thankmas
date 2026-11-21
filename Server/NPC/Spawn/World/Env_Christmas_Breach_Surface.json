@@ -1,0 +1,59 @@
+{
+  "Environments": [
+    "Env_Christmas_Breach_Plains"
+  ],
+  "NPCs": [
+    {
+      "Weight": 1,
+      "SpawnBlockSet": "Soil",
+      "Id": "Spirit_Frost",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 1,
+      "SpawnBlockSet": "Soil",
+      "Id": "Wolf_White",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Weight": 1,
+      "SpawnBlockSet": "Soil",
+      "Id": "Leopard_Snow",
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Weight": 1,
+      "SpawnBlockSet": "Soil",
+      "Id": "Bear_Polar",
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Weight": 3,
+      "SpawnBlockSet": "Soil",
+      "Id": "Owl_Snow",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Penguin",
+      "Flock": "Group_Large"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Bunny",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Moose_Bull",
+      "Flock": "Group_Small"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

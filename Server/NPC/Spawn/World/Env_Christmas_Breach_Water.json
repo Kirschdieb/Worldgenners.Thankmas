@@ -1,0 +1,41 @@
+{
+  "Environments": [
+    "Env_Christmas_Breach_Plains"
+  ],
+  "NPCs": [
+    {
+      "Weight": 1,
+      "Id": "Eel_Aurora",
+      "Flock": "Group_Large",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Weight": 3,
+      "Id": "Trout_Ice",
+      "Flock": "Group_Large",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Weight": 3,
+      "Id": "Frostgill",
+      "Flock": "Group_Large",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Snapjaw",
+      "SpawnFluidTag": "Water",
+      "Weight": 1,
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Id": "Jellyfish_Blue",
+      "SpawnFluidTag": "Water",
+      "Weight": 3,
+      "Flock": "Group_Medium"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}
