@@ -1,0 +1,73 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "MinCount": 5,
+    "MaxCount": 12,
+    "Weight": 1,
+    "Containers": [
+      {
+        "Type": "Single",
+        "Weight": 25,
+        "Item": {
+          "ItemId": "Ingredient_Ice_Essence",
+          "QuantityMin": 1,
+          "QuantityMax": 5
+        }
+      },
+      {
+        "Type": "Single",
+        "Weight": 10,
+        "Item": {
+          "ItemId": "Ingredient_Bar_Iron",
+          "QuantityMin": 1,
+          "QuantityMax": 3
+        }
+      },
+      {
+        "Type": "Single",
+        "Weight": 10,
+        "Item": {
+          "ItemId": "Food_Candy_Cane",
+          "QuantityMin": 1,
+          "QuantityMax": 3
+        }
+      },
+      {
+        "Type": "Choice",
+        "Weight": 1,
+        "RollsMin": 1,
+        "RollsMax": 1,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Weight": 1,
+            "Item": {
+              "ItemId": "Deco_Toy_Plane_1"
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 1,
+            "Item": {
+              "ItemId": "Deco_Toy_Plane_2"
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 1,
+            "Item": {
+              "ItemId": "Deco_Toy_Plane_2"
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 3,
+            "Item": {
+              "ItemId": "Deco_Toy_Train"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
