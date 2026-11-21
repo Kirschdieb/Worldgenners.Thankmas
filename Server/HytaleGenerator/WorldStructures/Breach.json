@@ -9,11 +9,16 @@
     {
       "Biome": "Candy_Cane_Forest",
       "Min": 0,
-      "Max": 0.5
+      "Max": 0.33
     },
     {
-      "Min": 0.5,
+      "Min": 0.33,
+      "Max": 0.66
       "Biome": "Ice_Spikes"
+    },
+    {
+      "Min": 0.66,
+      "Biome": "Floating-Islands"
     }
   ],
   "DefaultBiome": "Void",
