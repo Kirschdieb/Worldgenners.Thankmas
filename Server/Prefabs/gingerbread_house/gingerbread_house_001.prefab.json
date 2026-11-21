@@ -1,0 +1,7257 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -3,
+      "name": "*Gingerbread_Fence_State_Definitions_Corner",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Gingerbread_Fence",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -1,
+      "name": "Gingerbread_Fence",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Gingerbread_Fence",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 3,
+      "name": "Gingerbread_Fence",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 4,
+      "name": "*Gingerbread_Fence_State_Definitions_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Fence",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Festive_Gingerbread_Stool_Red",
+      "components": {
+        "Components": {}
+      },
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Fence",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Fence",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Festive_Gingerbread_Couch",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Festive_Gingerbread_Couch",
+      "filler": 2016,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Festive_Gingerbread_Couch",
+      "components": {
+        "Components": {}
+      },
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Festive_Gingerbread_Couch",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "Thankmas_Wreath_Ribbons",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Thankmas_Wreath_Ribbons",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread_Table_Small",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Poster_Tree",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 2,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread_Table_Small",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Fence",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Festive_Gingerbread_Window",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "*Festive_Gingerbread_Door_State_Definitions_CloseDoorIn",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "*Festive_Gingerbread_Door_State_Definitions_CloseDoorIn",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 0,
+      "name": "Gingerbread_Ornate",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "*Festive_Gingerbread_Door_State_Definitions_CloseDoorOut",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "*Festive_Gingerbread_Door_State_Definitions_CloseDoorOut",
+      "filler": 1024,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 1,
+      "name": "Gingerbread_Ornate",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Festive_Gingerbread_Window",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Thankmas_Lights_Diagonal_Trash",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Thankmas_Garland_Acorns",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Thankmas_Wreath_Lights",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Thankmas_Wreath_Lights",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Thankmas_Garland_Acorns",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Deco_Cards_Hanging",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Festive_Rug",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Toy_Train",
+      "filler": 1023,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Deco_Toy_Train",
+      "filler": 31,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Toy_Train",
+      "filler": 63,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "name": "WinterHoliday_Garland",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread_Window_Stained",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Toy_Train",
+      "filler": 992,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Deco_Toy_Train",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Toy_Train",
+      "filler": 32,
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread_Window_Stained",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "WinterHoliday_Garland",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -4,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread_Window_Stained",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 30,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 1054,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 62,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 1086,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Toy_Train",
+      "filler": 993,
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Deco_Toy_Train",
+      "filler": 1,
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Leaves_Fir",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "WinterHoliday_Cane",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Toy_Train",
+      "filler": 33,
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread_Window_Stained",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 5,
+      "name": "WinterHoliday_Garland",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 31,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 1055,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 63,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 1087,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Leaves_Fir",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Fir_Branch_Long",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Leaves_Fir_Tip",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Plant_Leaves_Fir_Tip",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "WinterHoliday_Snowflake",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Leaves_Fir",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 5,
+      "name": "WinterHoliday_Garland",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Festive_Gingerbread_Bed",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "MPHUpLOaS6efxfnko+aohw==",
+              "$type": "04"
+            }
+          },
+          "RespawnBlock": {}
+        }
+      },
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 32,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Festive_Gingerbread_Bed",
+      "filler": 1056,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "Festive_Gingerbread_Sidetable",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Icy_Potion",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Thankmas_Garland_Acorns",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Thankmas_Garland_Acorns",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Leaves_Fir",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -2,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -1,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -1,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Gingerbread_Ornate",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 1,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Gingerbread_Ornate",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 2,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 2,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 3,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 3,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Gingerbread",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "name": "Gingerbread_Decorated"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 4,
+      "name": "Gingerbread_Decorated",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -1,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": -1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 0,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 1,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 1,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "*Winter_Holiday_Wreath_State_Definitions_Off",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 2,
+      "name": "WinterHoliday_Garland",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 2,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 3,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 4,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 4,
+      "name": "Gingerbread_Icing_Rug"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 5,
+      "name": "Gingerbread"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 5,
+      "name": "Gingerbread_Icing_Rug"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}
