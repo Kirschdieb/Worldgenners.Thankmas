@@ -6,6 +6,42 @@
   "anchorZ": 0,
   "blocks": [
     {
+      "x": -2,
+      "y": 11,
+      "z": -1,
+      "name": "Candy_White"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Candy_White"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Candy_White"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Candy_White"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Candy_White"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 2,
+      "name": "Candy_White"
+    },
+    {
       "x": -1,
       "y": 9,
       "z": -5,
@@ -2092,16 +2128,52 @@
       "y": 14,
       "z": 6,
       "name": "Gingerbread_Stone2"
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 7,
-      "name": "Plant_Grass_Arid_Short"
     }
   ],
   "fluids": [
     {
+      "x": -2,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
       "x": -1,
       "y": 9,
       "z": -5,
@@ -4534,13 +4606,6 @@
       "x": 1,
       "y": 14,
       "z": 6,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 7,
       "name": "Empty",
       "level": 0
     }
